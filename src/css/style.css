@@ -1,0 +1,39 @@
+.ticketshow {
+    background-color: yellow;
+}
+
+.footer {
+    background-color: darkgrey;
+}
+
+.nombre-empresa {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.telefono {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    
+}
+
+.correo {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    
+}
+
+.p {
+    text-decoration: underline;
+    color: blue;
+}
+
+.body {
+    background-image: url('../multimedia/fondo.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
